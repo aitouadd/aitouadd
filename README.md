@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yassine Ait Ouaddi</h1>
-<h3 align="center">Versatile Professional with Expertise in Front-End Development, SEM, SEO, and SMM – Bridging Technology and Marketing for Optimal Online Presence</h3>
+<h3 align="center">Creative UX/UI Designer and Front-End Developer, Specializing in WordPress, SEO, SEM, and SMM – Orchestrating Engaging Online Journeys for Enhanced Brand Presence</h3>
 
 - 🌱 I’m currently learning **CRM (customer relationship management)**
 
-- 💬 Ask me about **react , seo , sem , smm , js , ux , wordpress**
+- 💬 Ask me about **UX/UI Design , Front-End Development , SEO (Search Engine Optimization) , WordPress , SEM (Search Engine Marketing),SMM (Social Media Marketing)**
 
 - 📫 How to reach me **yassineaitouaddi.education@gmail.com**
 
-- ⚡ Fun fact **Happy coding**
+- ⚡ Fun fact **I enjoy solving coding challenges with a twist! My favorite? Creating a program that generates random jokes – because who said coding can't be as humorous as it is logical?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
